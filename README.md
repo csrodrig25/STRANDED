@@ -1,5 +1,5 @@
 
-> Open this page at [https://csrodrig25.github.io/stranded/](https://csrodrig25.github.io/stranded/)
+> Open this page at [https://csrodrig25.github.io/STRANDED/](https://csrodrig25.github.io/STRANDED/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/csrodrig25/stranded** and import
+* search for **https://github.com/csrodrig25/STRANDED** and import
 
-## Edit this project ![Build status badge](https://github.com/csrodrig25/stranded/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/csrodrig25/STRANDED/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/csrodrig25/stranded** and click import
+* paste **https://github.com/csrodrig25/STRANDED** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/csrodrig25/stranded/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/csrodrig25/STRANDED/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
