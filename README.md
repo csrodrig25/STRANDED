@@ -1,31 +1,25 @@
+<p style="text-align: center;"><em>THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED.</em></p>
 
-> Open this page at [https://csrodrig25.github.io/STRANDED/](https://csrodrig25.github.io/STRANDED/)
+# STRANDED: FIND YOUR WAY BACK HOME.
 
-## Use as Extension
+You were sent on a reconnaissance mission to see if humans could colonize the planet HD 011235 b. Your crew left the planet with one less person than they had when they had arrived. And getting back home will be a challenge. While the air is fully breathable, there are hostile extraterrestrials roaming the planet. It is, however, possible. Will you be able to do it? Will you survive and find your way back home? Or will you be __STRANDED__ forevermore?
 
-This repository can be added as an **extension** in MakeCode.
+## COPYRIGHT
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/csrodrig25/STRANDED** and import
+```
+    STRANDED: FIND YOUR WAY BACK HOME.
+    Copyright (C) 2023 Christian Rodriguez-Burns.
 
-## Edit this project ![Build status badge](https://github.com/csrodrig25/STRANDED/workflows/MakeCode/badge.svg)
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-To edit this repository in MakeCode.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/csrodrig25/STRANDED** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/csrodrig25/STRANDED/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
